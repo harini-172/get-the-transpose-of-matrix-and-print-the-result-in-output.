@@ -1,0 +1,1 @@
+# get-the-transpose-of-matrix-and-print-the-result-in-output.
